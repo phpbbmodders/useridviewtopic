@@ -1,0 +1,30 @@
+{
+    "name": "phpbbmodders/useridviewtopic",
+    "type": "phpbb-extension",
+    "description": "Adds the user id in viewtopic.",
+    "homepage": "https://www.phpbbmodders.com/",
+    "version": "1.0.0-dev",
+    "time": "2026-05-28",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "phpBB Modders",
+            "email": "board@phpbbmodders.com",
+            "homepage": "https://www.phpbbmodders.com/",
+            "role": "Extension Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.2.0",
+        "composer/installers": "~1.0"
+    },
+    "require-dev": {
+        "phing/phing": "~2.4"
+    },
+    "extra": {
+        "display-name": "User ID in Viewtopic",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.3.0,<4.0.0@dev"
+        }
+    }
+}
