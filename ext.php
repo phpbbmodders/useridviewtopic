@@ -42,17 +42,17 @@ class ext extends \phpbb\extension\base
 	}
 
 	/**
-	 * Require phpBB 3.3.0
+	 * Require phpBB 3.3.17
 	 *
 	 * @return bool
 	 */
 	protected function check_phpbb_version()
 	{
-		return phpbb_version_compare(PHPBB_VERSION, '3.3.0', '>=');
+		return phpbb_version_compare(PHPBB_VERSION, '3.3.17', '>=');
 	}
 
 	/**
-	 * Require PHP 8.1
+	 * Require PHP 8.2
 	 *
 	 * @return bool
 	 */
