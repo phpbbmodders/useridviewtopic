@@ -5,6 +5,12 @@
     "homepage": "https://www.phpbbmodders.com/",
     "version": "1.0.0-dev",
     "time": "2026-05-28",
+    "keywords": [
+        "phpbb",
+        "extension",
+        "user-id",
+        "viewtopic"
+    ],
     "license": "GPL-2.0-only",
     "authors": [
         {
