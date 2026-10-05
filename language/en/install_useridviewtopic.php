@@ -35,5 +35,5 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, [
-	'USERIDVIEWTOPIC_NOT_ENABLEABLE'	=> 'User ID in Viewtopic could not be enabled. The minimum requirements of phpBB 3.3.0 and/or PHP 8.2.0 were not satisfied.',
+	'USERIDVIEWTOPIC_NOT_ENABLEABLE'	=> 'User ID in Viewtopic could not be enabled. The minimum requirements of phpBB 3.3.19 and/or PHP 8.2.0 were not satisfied.',
 ]);

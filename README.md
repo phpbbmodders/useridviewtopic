@@ -11,7 +11,7 @@ Shows each poster's user ID next to their posts.
 
 ## Requirements
 
-- phpBB 3.3.17 or later
+- phpBB 3.3.19 or later
 - PHP 8.2 or later
 
 ## Installation

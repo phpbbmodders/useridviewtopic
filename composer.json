@@ -30,7 +30,7 @@
     "extra": {
         "display-name": "User ID in Viewtopic",
         "soft-require": {
-            "phpbb/phpbb": ">=3.3.17,<4.0.0@dev"
+            "phpbb/phpbb": ">=3.3.19,<4.0.0@dev"
         }
     }
 }
